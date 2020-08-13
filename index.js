@@ -69,7 +69,7 @@ module.exports = {
         "@typescript-eslint/prefer-regexp-exec": "error",
         "@typescript-eslint/prefer-string-starts-ends-with": "error",
         "@typescript-eslint/prefer-ts-expect-error": "error",
-        "@typescript-eslint/promise-function-async": "error",
+        "@typescript-eslint/promise-function-async": "off",
         "@typescript-eslint/require-array-sort-compare": "error",
         "@typescript-eslint/restrict-plus-operands": "error",
         "@typescript-eslint/restrict-template-expressions": "error",
